@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="bin/main" path="src/main/java">
+		<attributes>
+			<attribute name="gradle_scope" value="main"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="bin/main" path="src/main/resources">
+		<attributes>
+			<attribute name="gradle_scope" value="main"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="bin/test" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="gradle_scope" value="test"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="bin/test" path="src/test/resources">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="gradle_scope" value="test"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8/"/>
+	<classpathentry kind="con" path="org.eclipse.buildship.core.gradleclasspathcontainer"/>
+	<classpathentry kind="lib" path="H:/Jar/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="H:/Jar/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="H:/Jar/cucumber-core-2.4.0.jar"/>
+	<classpathentry kind="lib" path="H:/Jar/cucumber-java-2.4.0.jar"/>
+	<classpathentry kind="lib" path="H:/Jar/cucumber-junit-2.4.0.jar"/>
+	<classpathentry kind="lib" path="H:/Jar/cucumber-jvm-deps-1.0.6.jar"/>
+	<classpathentry kind="lib" path="H:/Jar/gherkin-5.0.0.jar"/>
+	<classpathentry kind="lib" path="H:/Jar/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="H:/Jar/java-client-7.2.0.jar"/>
+	<classpathentry kind="lib" path="H:/Jar/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="H:/Jar/mockito-core-1.10.19.jar"/>
+	<classpathentry kind="lib" path="H:/Jar/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="lib" path="H:/Jar/libs/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="H:/Jar/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="H:/Jar/libs/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="H:/Jar/libs/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="H:/Jar/libs/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="H:/Jar/libs/okio-1.14.0.jar"/>
+	<classpathentry kind="output" path="bin/default"/>
+</classpath>
